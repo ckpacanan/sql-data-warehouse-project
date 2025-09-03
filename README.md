@@ -2,6 +2,8 @@
 Welcome to the ""Data Warehouse and Analytics"" Project!
 We are excited to embark on this journey of transforming raw data into actionable insights. This project is designed to centralize, organize, and analyze data to empower better decision-making, enhance efficiency, and unlock new opportunities for growth.
 
+Together, we will build a robust data warehouse foundation and implement advanced analytics tools that will provide meaningful dashboards, reports, and predictive insights. Your participation and collaboration will be vital in ensuring the success of this initiative.
+
 ---
 
 ## Project Requirements
